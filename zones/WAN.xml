@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone>
+  <short>WAN</short>
+  <description>WAN zone</description>
+  <masquerade/>
+  <forward/>
+</zone>
+
